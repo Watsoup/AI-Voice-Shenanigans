@@ -1,0 +1,9 @@
+./cuda-samples/*
+./Include/*
+./Lib/*
+./Scripts/*
+./share/*
+./TTS/*
+./XTTS-v2/*
+./VoiceSamples/*
+pyvenv.cfg
